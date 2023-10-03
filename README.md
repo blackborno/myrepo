@@ -1,1 +1,1 @@
-# myrepo
+# About this project
